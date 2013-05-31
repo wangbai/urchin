@@ -1,4 +1,5 @@
 urchin
 ======
 
-high performance socket server
+A high performance socket server
+
